@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "31672612807",
+    "firebase_url": "https://history-app-668d9-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "history-app-668d9",
+    "storage_bucket": "history-app-668d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:31672612807:android:289ec78a5507007f148be2",
+        "android_client_info": {
+          "package_name": "com.example.history"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApBaGaLYTXAepS42ATv7Z6rk3iM2W94lI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
