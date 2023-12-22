@@ -2,4 +2,7 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="main">#FFC100</color>
+    <color name="inputField">#E6E6E6</color>
+    <color name="textInputField">#263238</color>
 </resources>
